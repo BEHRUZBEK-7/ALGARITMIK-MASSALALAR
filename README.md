@@ -1,0 +1,2 @@
+# ALGARITMIK-MASSALALAR
+Maslalar yechimi
